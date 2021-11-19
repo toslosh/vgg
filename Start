@@ -1,0 +1,9 @@
+import time
+import os
+print("Привет, войди в систему!")
+myname = ("Введите логин : ")
+mypass = ("Введите пароль : ")
+if myname == "Dima" and mypass == "Myha" :
+    print("Добро пожаловать")
+else
+    print("Не верный логие или пароль")
